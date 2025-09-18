@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\asus\Downloads\exports\exports\exports\fastapi_refactored\venv"
+VIRTUAL_ENV="C:\Users\asus\Downloads\fastapi_refactored\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

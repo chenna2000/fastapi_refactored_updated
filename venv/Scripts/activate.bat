@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\asus\Downloads\exports\exports\exports\fastapi_refactored\venv
+set VIRTUAL_ENV=C:\Users\asus\Downloads\fastapi_refactored\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
